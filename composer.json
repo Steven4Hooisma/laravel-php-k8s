@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/laravel-php-k8s",
+    "name": "taggrs/laravel-php-k8s",
     "description": "Just a simple port of renoki-co/php-k8s for easier access in Laravel.",
     "keywords": [
         "laravel",
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "renoki-co/php-k8s": "^3.7"
+        "taggrs/php-k8s": "dev-master"
     },
     "autoload": {
         "psr-4": {
